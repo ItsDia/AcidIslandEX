@@ -1,0 +1,14 @@
+name: AcidIslandEx
+main: com.Raking.ASkyBlockEx.ASkyBlockEx
+version: 0.0.1
+authors:
+  - Raking
+description: Ummm.....this is a plugin for AcidIsland
+softdepend: [AcidIsland]
+loadbefore: [AcidIsland]
+commands:
+  AcidIslandEx:
+    usage: /<command>
+    description: N/A
+    aliases:
+        - open
